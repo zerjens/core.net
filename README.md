@@ -1,2 +1,3 @@
-# core.net
-Clojure Library for Low Level, Idiomatic Networking and IO
+# Low Level Network I/O in Clojure (on the JVM)
+
+**Work in Progress**
